@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **rohitsinghmadan@gmail.com**
 
-- 📄 Checkout my resume [shorturl.at/cpNS7](shorturl.at/cpNS7)
-
 - ⚡ I'm creative and critical thinker in terms of development.
 
 <h3 align="left">Connect with me:</h3>
