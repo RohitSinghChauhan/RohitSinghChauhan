@@ -12,7 +12,9 @@
 - ⚡ I'm creative and critical thinker in terms of development.
 
 <h3 align="left">Connect with me:</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-singh-786b51193/) 
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-singh-786b51193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-singh-786b51193/" height="30" width="40" /></a>
+</p>
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
