@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, node or express**
 
-- 📫 How to reach me **rohitsinghmadan@gmail.com**
+- 📫 How to reach me - **rohitsinghmadan@gmail.com**
 
 - ⚡ I'm creative and critical thinker in terms of development.
 
