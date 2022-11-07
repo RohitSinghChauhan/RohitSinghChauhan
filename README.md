@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **react, node or express**
 
+- 💬 [Resume](https://link-url-here.org](https://drive.google.com/file/d/1FzHQpwXtJu0dbpY5eq5GKNO-yOY63q91/view?usp=share_link)
+
 - 📫 How to reach me - **rohitsinghmadan@gmail.com**
 
 - ⚡ I'm creative and critical thinker in terms of development.
