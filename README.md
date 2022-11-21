@@ -36,7 +36,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<a href="http://www.github.com/vivekbtu"><img src="https://github-readme-stats.vercel.app/api?username=vivekbtu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="gautam6023's GitHub stats" /></a>
+<a href="http://www.github.com/rohitsinghchauhan"><img src="https://github-readme-stats.vercel.app/api?username=rohitsinghchauhan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="rohit's stats" /></a>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rohitsinghchauhan&theme=react&hide_border=false)<br/>
 
