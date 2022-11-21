@@ -36,7 +36,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitsinghchauhan&show_icons=true&locale=en&layout=compact" alt="rohitsinghchauhan" /></p>
+![](https://github-readme-stats.vercel.app/api?username=rohitsinghchauhan&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitsinghchauhan&show_icons=true&locale=en" alt="rohitsinghchauhan" /></p>
 
