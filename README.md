@@ -38,6 +38,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=rohitsinghchauhan&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitsinghchauhan&show_icons=true&locale=en" alt="rohitsinghchauhan" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rohitsinghchauhan&theme=react&hide_border=false)<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsinghchauhan&" alt="rohitsinghchauhan" /></p>
