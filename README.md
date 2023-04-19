@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 - 🔭 I’m currently in search for a opportunity
 
-- 🌱 I recently have learned CSS libraries lie **Chakra UI & Bootstrap**
+- 🌱 Let's be known to each other...
 
 - 💬 Ask me about **react, node or express**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me - **rohitsinghmadan@gmail.com**
 
-- ⚡ I'm creative and critical thinker in terms of development.
+- ⚡ I'm a creative & critical thinker.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
