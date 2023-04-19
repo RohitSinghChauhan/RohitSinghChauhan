@@ -9,7 +9,7 @@
 
 - 💬 [Resume](https://drive.google.com/file/d/1FzHQpwXtJu0dbpY5eq5GKNO-yOY63q91/view?usp=share_link)
 
-- 📫 How to reach me - **rohitsinghmadan@gmail.com**
+- 📫 Reach me - **rohitsinghmadan@gmail.com**
 
 - ⚡ I'm a creative & critical thinker.
 
